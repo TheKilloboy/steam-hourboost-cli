@@ -20,12 +20,12 @@ A Node.js-based command-line tool for idling game hours on multiple Steam accoun
 
 1.  **Clone the project:**
     ```bash
-    git clone https://github.com/your-repo/steam-activity-manager.git
+    git clone https://github.com/TheKilloboy/steam-hourboost-cli.git
     ```
 
 2.  **Enter the project directory:**
     ```bash
-    cd steam-activity-manager
+    cd steam-hourboost-cli
     ```
 
 3.  **Install required packages:**
