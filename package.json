@@ -1,0 +1,21 @@
+{
+  "name": "steam-hourboost-cli",
+  "version": "1.0.0",
+  "description": "Headless CLI daemon for simulating Steam sessions and automating playtime - for testing & QA only.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "steam": "^1.4.1",
+    "steam-user": "^4.12.5",
+    "steam-totp": "^2.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}

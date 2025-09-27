@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# Steam-User sentry files
+/sentry
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
